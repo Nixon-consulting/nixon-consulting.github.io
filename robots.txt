@@ -11,5 +11,5 @@ Disallow: /*_escaped_fragment_*
 Disallow:
 
 
-Sitemap: http://nixon-consulting.github.io/sitemap.xml
-Host: nixon-consulting.github.io
+Sitemap: http://nixon-consulting.com/sitemap.xml
+Host: nixon-consulting.com
